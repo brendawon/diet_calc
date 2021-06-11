@@ -1,0 +1,24 @@
+name: diet_calc
+description: Focus on making clinical judgments - let me do the math. Developed and coded by a Registered Dietitian for dietitians.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^9.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
