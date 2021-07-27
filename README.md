@@ -1,6 +1,6 @@
 # Diet Calc
 
-Diet Calc is a calculator for clinical dietitians to assess the nutritional needs of their patients. As a mobile Flutter app, Diet Calc can be used on both Android and iOS, allowing clinicians easy access to estimated needs wherever they are. 
+Diet Calc is a calculator for clinical dietitians. Inspired by [The App Brewery's BMI Calculator](https://github.com/londonappbrewery/bmi-calculator-flutter), drawing from the beautiful design of [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator), Diet Calc is NOT simply a BMI calculator: it performs nutritional calculations to help clinicians assess the needs of their patients and incorporates intuitive input fields to enhance user experience. As a mobile Flutter app, Diet Calc can be used on both Android and iOS, allowing clinicians easy access to estimated needs wherever they are. 
 
 Focus on making clinical judgments - let Diet Calc do the math. Developed and coded by a Registered Dietitian for dietitians.
 
