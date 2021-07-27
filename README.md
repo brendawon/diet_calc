@@ -4,6 +4,10 @@ Diet Calc is a calculator for clinical dietitians to assess the nutritional need
 
 Focus on making clinical judgments - let Diet Calc do the math. Developed and coded by a Registered Dietitian for dietitians.
 
+# Demo
+
+https://user-images.githubusercontent.com/73001148/127087087-2d065f57-94f9-4d9e-a76e-816310766bc9.mp4
+
 # Instructions
 
 Users can calculate caloric needs the quick, simplified way or by using the built-in, evidenced-based Mifflin St. Jeor equation. 
@@ -16,11 +20,8 @@ Pressing on the age, height, and weight cards will bring up the number pad.
 
 Users can toggle between cm/in and kgs/lbs to instantly convert from metric to standard or from standard to metric units. Similarly, users can toggle between activity factor or stress factor and use the slider to select the appropriate metabolic multiplier. 
 
-CALCULATE will bring the user to the results page, where BMI, MSJ/Simplified Caloric, Protein, and Fluid needs are displayed, as well as helpful ranges based on common clinical conditions. 
+Pressing the 'CALCULATE' button will bring the user to the results page, where BMI, MSJ/Simplified Caloric, Protein, and Fluid needs are displayed, as well as helpful ranges based on common clinical conditions. 
 
-# Demo
-
-https://user-images.githubusercontent.com/73001148/127087087-2d065f57-94f9-4d9e-a76e-816310766bc9.mp4
 
 # Future Implementations
 
