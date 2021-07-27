@@ -6,7 +6,7 @@ Focus on making clinical judgments - let Diet Calc do the math. Developed and co
 
 # Demo
 
-https://user-images.githubusercontent.com/73001148/127087087-2d065f57-94f9-4d9e-a76e-816310766bc9.mp4
+![](https://media.giphy.com/media/K9RIAsnd27pelZUfTX/giphy.gif)
 
 # Instructions
 
