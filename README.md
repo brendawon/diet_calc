@@ -2,13 +2,23 @@
 
 Diet Calc is a calculator for clinical dietitians. 
 
-Diet Calc is NOT simply a BMI calculator (although, it was inspired by [The App Brewery's BMI Calculator](https://github.com/londonappbrewery/bmi-calculator-flutter) and the beautiful design of [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)). It performs nutritional calculations to help clinicians assess the needs of their patients and incorporates intuitive input fields to enhance user experience. As a mobile Flutter app, Diet Calc can be used on both Android and iOS, allowing clinicians easy access to estimated needs wherever they are. 
+Diet Calc is NOT simply a BMI calculator (although, it was inspired by [The App Brewery's BMI Calculator](https://github.com/londonappbrewery/bmi-calculator-flutter) and the beautiful design of [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator)). It performs nutritional calculations to help clinicians assess the needs of their patients and incorporates intuitive input fields to enhance user experience. As a mobile Flutter app, Diet Calc can be used on both Android and iOS, allowing dietitians easy access to estimated needs wherever they are. 
 
 Focus on making clinical judgments - let Diet Calc do the math. Developed and coded by a Registered Dietitian for dietitians.
 
 # Demo
-
-![](https://media.giphy.com/media/K9RIAsnd27pelZUfTX/giphy.gif)
+<div align="center">
+<table>
+  <tr align="center">
+    <td>Input Page</td>
+     <td>Results Page</td>
+  </tr>
+  <tr>
+    <td><img src="https://media.giphy.com/media/K9RIAsnd27pelZUfTX/giphy.gif" alt="Input Page"/></td>
+    <td><img src="https://user-images.githubusercontent.com/73001148/127092221-a3193bd5-d843-43f1-9cee-f08185187878.jpg" alt="Results Page" width="235" height="480"/></td>
+  </tr>
+ </table>
+  </div>
 
 # Instructions
 
